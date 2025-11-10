@@ -1,2 +1,1 @@
-# Notes DevOps Lab
-Initial notes by Student A
+Added section about collaboration.
